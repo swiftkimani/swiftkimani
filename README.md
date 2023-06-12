@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kim_taylor_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/benard-kimani-17b529233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
 <a href="https://stackoverflow.com/users/21926267/benard-kimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kim_taylor_king/" target="blank">[![Instagram](https://www.flaticon.com/svg/vstatic/svg/174/174855.svg)](https://www.instagram.com/kim_taylor_king/)</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kim_taylor_king/)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
