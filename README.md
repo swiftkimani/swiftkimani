@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Benard Kimani</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h3 align="center">Passionate about JavaScript and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliac7&label=Profile%20views&color=0e75b6&style=flat" alt="eliac7" /> </p>
 
 <p align="left"> <a href="https://github.com/morgandrgg"><img src="https://github-profile-trophy.vercel.app/?username=eliac7" alt="" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kim_taylor_king" target="blank"><img src="https://img.shields.io/twitter/follow/kim_taylor_king?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swiftkimani" target="blank"><img src="https://img.shields.io/twitter/follow/swiftkimani?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Redux, Node.js, MongoDB**
+- 🌱 I’m currently learning **React.js, Redux, Node.js, and MongoDB**
 
-- 💬 Ask me about **HTML,CSS (including frameworks),JavaScript (including frameworks),Python, PHP**
+- 💬 Ask me about **JavaScript, React, HTML, CSS, and related web development technologies**
 
 - 📫 How to reach me **kimbenardkim@gmail.com**
 
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kim_taylor_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/benard-kimani-17b529233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
 <a href="https://stackoverflow.com/users/21926267/benard-kimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/Kim_taylor_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannycaleb_" height="30" width="40" /></a>
+<a href="https://instagram.com/Kim_taylor_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/instagram.svg" alt="dannycaleb_" height="30" width="40" /></a>
 </p>
 
 </p>
