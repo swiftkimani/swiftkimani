@@ -13,8 +13,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 - 🌱 I’m currently learning **Nextjs**
 -  👨‍💻 All of my projects are available at [Swift Tech](https://benardkimani.vercel.app/)
