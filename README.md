@@ -13,7 +13,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Nextjs**
--  👨‍💻 All of my projects are available at [Swift Tech] <a href="https://benardkimani.vercel.app/" target="blank"></a>)
+-  👨‍💻 All of my projects are available at [Swift Tech] <a href="https://benardkimani.vercel.app/" target="blank"></a>
 
 - 💬 Ask me about **JavaScript, React**
 
