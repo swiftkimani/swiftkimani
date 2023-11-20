@@ -14,7 +14,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Nextjs**
--  👨‍💻 All of my projects are available at [Swift Tech](https://benardkimani.vercel.app/){:target="_blank"}
+-  👨‍💻 All of my projects are available at [Swift Tech](https://benardkimani.vercel.app/)
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **kimbenardkim@gmail.com**
