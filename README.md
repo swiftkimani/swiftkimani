@@ -27,7 +27,7 @@
 
 <h4>Follow My Instgram</h4>
 
-Click <a href="https://instagram.com/Kim_taylor_king"> here </a>to follwo Things I code with and do
+Click <a href="https://instagram.com/Kim_taylor_king" target="blank"> here </a>to follwo Things I code with and do
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Benard-Kimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
