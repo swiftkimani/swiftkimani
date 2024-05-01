@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliac7&label=Profile%20views&color=0e75b6&style=flat" alt="eliac7" /> </p>
-<h3 align="center">I Am a passionate Software developer from Earth </h3>
+<h3 align="center">I Am a passionate Software developer </h3>
  I'm passionate about technology and enjoy creatively solving problems. My skill set is constantly growing, allowing me to work on both the front-end and back-end of web applications. This diversity of technical abilities keeps me up-to-date with the latest trends and best practices in the industry, which I find exciting.
  
  Being a fullstack developer, I thrive on embracing and mastering new technologies, fostering an ever-evolving skill set. My edge lies in adept communication and collaboration, recognizing teamwork's pivotal role in project excellence. I prioritize clear articulation of ideas and seamless cooperation to ensure goal attainment.
@@ -41,7 +41,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morgandrgg&show_icons=true&locale=en&layout=compact" alt="eliac7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morgandrgg&show_icons=true&locale=en" alt="eliac7" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=morgandrgg&theme=radical"/></p>
+<p><a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=morgandrgg&count_private=true&show_icons=true&theme=cobalt">
+</a></p>
 
 
 
