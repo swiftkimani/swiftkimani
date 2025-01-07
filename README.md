@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/swiftkimani" target="blank"><img src="https://img.shields.io/twitter/follow/swiftkimani?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p><img align="left" height=202 src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="eliac7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="eliac7" /></p>
 
 <p><img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=swiftkimani&theme=radical"/></p>
 
