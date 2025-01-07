@@ -20,8 +20,16 @@
 </br>
 </br>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<div align="center" style="background-color: #333; padding: 300; border-radius: 150; width: 80; margin: 0 auto;">
+</br>
+
+<div align="center">
   <p align="center" style="background-color: #1a1a1a; padding: 200; border-radius: 100; display: inline-block;">
   <h3 align="center">Languages I Use:</h3>
 
