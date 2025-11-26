@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=swiftkimani&theme=radical" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=swiftkimani&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 <div align="center">
