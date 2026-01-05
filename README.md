@@ -5,17 +5,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&background=8A1A1A00&center=true&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+Am+%3C%3EBenard+Kimani%3C%2F%3E)](https://git.io/typing-svg)
 
-<h3 align="left">I Am a passionate Software Engineer. Building thoughtful, functional code—one project at a time.</h3>
+<h3 align="center">I Am a passionate Software Engineer. Building thoughtful, functional code—one project at a time.</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/swiftkimani" target="_blank">
     <img src="https://img.shields.io/twitter/follow/swiftkimani?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <!-- <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=swiftkimani&theme=radical" alt="GitHub Streak" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=swiftkimani&theme=radical" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -37,12 +37,16 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&background=radical" alt="MongoDB" />
   </p>
 </div>
-
 <p align="center">
+    <a href="https://github.com/bethanyjep">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftkimani&theme=radical" alt="swiftkimani"/>
+    </a>
+</p>
+<!-- <p align="center">
   
 ##### 😎 Cool Dev Comic:
   <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="Cool Dev Comic" />
-</p>
+</p> -->
 
 <h1>Copy Profile</h1>
 
