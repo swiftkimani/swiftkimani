@@ -38,7 +38,7 @@
   </p>
 </div>
 <p align="center">
-    <a href="https://github.com/bethanyjep">
+    <a href="https://github.com/swiftkimani">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftkimani&theme=radical" alt="swiftkimani"/>
     </a>
 </p>
