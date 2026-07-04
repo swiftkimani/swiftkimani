@@ -16,13 +16,6 @@
   </a>
 </p>
 
-<!-- STATS CARDS -->
-<p align="center">
-    <a href="https://github.com/swiftkimani">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftkimani&theme=radical" alt="swiftkimani"/>
-    </a>
-</p>
-
 ---
 
 <div align="center">
@@ -83,8 +76,15 @@
 <div align="center">
   <h2>📈 GitHub Activity & Stats</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swiftkimani&theme=radical" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftkimani&theme=radical" alt="Profile Summary"/>
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=swiftkimani&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swiftkimani&theme=radical" alt="GitHub Streak" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  </p>
 </div>
 
 ---
