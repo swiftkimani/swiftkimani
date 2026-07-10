@@ -76,19 +76,27 @@
 <div align="center">
   <h2>📈 GitHub Activity & Stats</h2>
   <br/>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftkimani&theme=radical" alt="Profile Summary"/>
-  </p>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swiftkimani&theme=radical" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com/?user=swiftkimani&theme=radical" alt="GitHub Streak"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swiftkimani&theme=radical" alt="Top Languages"/>
-  </p>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swiftkimani&theme=radical" alt="Contribution Graph" width="90%"/>
-  </p>
+
+  <a href="https://github.com/swiftkimani">
+    <img src="https://img.shields.io/github/followers/swiftkimani?label=Followers&style=for-the-badge&color=6366f1&logo=github">
+  </a>
+  <a href="https://github.com/swiftkimani">
+    <img src="https://img.shields.io/github/stars/swiftkimani?label=Stars&style=for-the-badge&color=ec4899&logo=github">
+  </a>
+  <a href="https://github.com/swiftkimani?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/swiftkimani&style=for-the-badge&color=a855f7&logo=github">
+  </a>
+  <a href="https://github.com/swiftkimani">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits%20(2026)&query=$[0].total&url=https://api.github.com/search/commits?q=author:swiftkimani+committer-date:2026&style=for-the-badge&color=22c55e&logo=github">
+  </a>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=swiftkimani&theme=radical" alt="GitHub Streak"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swiftkimani&theme=radical" alt="Contribution Graph" width="90%"/>
 </div>
 
 ---
