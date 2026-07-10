@@ -84,10 +84,10 @@
     <img src="https://img.shields.io/github/stars/swiftkimani?label=Stars&style=for-the-badge&color=ec4899&logo=github">
   </a>
   <a href="https://github.com/swiftkimani?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/swiftkimani&style=for-the-badge&color=a855f7&logo=github">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswiftkimani&style=for-the-badge&color=a855f7&logo=github">
   </a>
-  <a href="https://github.com/swiftkimani">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits%20(2026)&query=$[0].total&url=https://api.github.com/search/commits?q=author:swiftkimani+committer-date:2026&style=for-the-badge&color=22c55e&logo=github">
+  <a href="https://github.com/swiftkimani?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswiftkimani&style=for-the-badge&color=22c55e&logo=github">
   </a>
 
   <br/><br/>
