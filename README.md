@@ -81,9 +81,13 @@
   </p>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=swiftkimani&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-    <img src="https://streak-stats.demolab.com/?user=swiftkimani&theme=radical" alt="GitHub Streak" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftkimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swiftkimani&theme=radical" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=swiftkimani&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swiftkimani&theme=radical" alt="Top Languages"/>
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swiftkimani&theme=radical" alt="Contribution Graph" width="90%"/>
   </p>
 </div>
 
