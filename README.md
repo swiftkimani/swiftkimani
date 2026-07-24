@@ -74,6 +74,15 @@
 ---
 
 <div align="center">
+  <h2>✍️ Recent Blog Posts</h2>
+  <br/>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+---
+
+<div align="center">
   <h2>📈 GitHub Activity & Stats</h2>
   <br/>
 
