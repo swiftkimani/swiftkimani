@@ -77,7 +77,8 @@
   <h2>✍️ Recent Blog Posts</h2>
   <br/>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Build a Task Tracker App with Vite and React](https://medium.com/@Swiftkimani/build-a-task-tracker-app-with-vite-and-react-8176879aa42e?source=rss-95c6ec5118f1------2)
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 ---
