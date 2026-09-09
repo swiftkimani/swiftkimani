@@ -78,6 +78,8 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Social Scheduler: An AI-Powered Publishing Pipeline](https://medium.com/@Swiftkimani/social-scheduler-an-ai-powered-publishing-pipeline-f94df0e05a5d?source=rss-95c6ec5118f1------2)
+- [Asset Nexus: Building an Enterprise Asset Lifecycle System](https://medium.com/@Swiftkimani/asset-nexus-building-an-enterprise-asset-lifecycle-system-8c00219d2d16?source=rss-95c6ec5118f1------2)
 - [Build a Task Tracker App with Vite and React](https://medium.com/@Swiftkimani/build-a-task-tracker-app-with-vite-and-react-8176879aa42e?source=rss-95c6ec5118f1------2)
 <!-- BLOG-POST-LIST:END -->
 
