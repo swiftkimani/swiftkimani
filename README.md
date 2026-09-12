@@ -1,6 +1,6 @@
 <hr style="border: 5px solid #000000; margin: 0;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&background=8A1A1A00&center=true&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+Am+%3C%3EBenard+Kimani%3C%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&background=8A1A1A00&center=true&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+Am+%3C%3ESwift+Kimani%3C%2F%3E)](https://git.io/typing-svg)
 
 <h3 align="center">I Am a passionate Software Engineer. Building thoughtful, functional code—one project at a time.</h3>
 
