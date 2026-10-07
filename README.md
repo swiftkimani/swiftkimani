@@ -1,81 +1,103 @@
-<hr style="border: 5px solid #000000; margin: 0;">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&background=8A1A1A00&center=true&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+Am+%3C%3ESwift+Kimani%3C%2F%3E)](https://git.io/typing-svg)
-
-<h3 align="center">I Am a passionate Software Engineer. Building thoughtful, functional code—one project at a time.</h3>
+<a href="https://benardkimani.co.ke/">
+  <img src="assets/hero.svg" width="100%" alt="Swift Kimani. Software engineer in Nairobi building voice interfaces, agent tooling and offline-first software." />
+</a>
 
 <p align="center">
-  <a href="https://benardkimani.co.ke/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/swiftkimani" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/swiftkimani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://benardkimani.co.ke/">Portfolio</a> ·
+  <a href="https://medium.com/@swiftkimani">Medium</a> ·
+  <a href="https://twitter.com/swiftkimani">X / Twitter</a> ·
+  <a href="https://github.com/swiftkimani?tab=repositories">All repositories</a>
 </p>
 
----
+I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfaces, agent tooling and software that keeps working when the network doesn't, mostly in Rust and TypeScript, with Go where throughput matters.
 
-<div align="center">
-  <h2>💻 Tech Stack & Tools</h2>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  </p>
-</div>
+<img src="assets/terminal.svg" width="100%" alt="Terminal session. whoami: swift kimani, software engineer, Nairobi, Kenya. Shipping: kaziscout, voice-mcp, figma-canvas-mcp, hyper-voice, sauti-salama. Stack: Rust, TypeScript, Go, Python, Next.js, React, Tauri, Postgres." />
 
----
+<h3><img src="assets/header-work.svg" width="100%" alt="01 / Selected work" /></h3>
 
-<div align="center">
-  <h2>✨ Featured Projects</h2>
-</div>
-
-<br/>
-
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 <a href="https://github.com/swiftkimani/asset-nexus">Asset Nexus</a></h3>
-      <p align="center">
-        <i>Enterprise-grade asset lifecycle management system. Track, assign, report, and manage hardware/software assets with role-based access control, bulk import/export, and a modern dashboard.</i>
-      </p>
+      <h4><a href="https://github.com/swiftkimani/kaziscout">kaziscout</a></h4>
+      <code>TypeScript</code> <code>agent</code> <code>local-first</code>
+      <p>Job-search agent that runs on your own computer. Reads 131 job boards and employer career pages, deepest in Africa, scores roles against your CV and tracks applications.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/swiftkimani/social-scheduler">Social Scheduler Agent</a></h3>
-      <p align="center">
-        <i>An AI-powered social media scheduling agent that works as an OpenCode subagent and a standalone CLI tool for Twitter/X and LinkedIn.</i>
-      </p>
+      <h4><a href="https://github.com/swiftkimani/voice-mcp">voice-mcp</a></h4>
+      <code>Rust</code> <code>MCP</code> <code>whisper.cpp</code>
+      <p>Voice in and out for any MCP client: offline speech-to-text, OS text-to-speech and keystrokes, in one small binary.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 <a href="https://github.com/swiftkimani/Nextjs-Ecommerce">Nextjs Ecommerce</a></h3>
-      <p align="center">
-        <i>A fast, SEO-friendly e-commerce application utilizing Next.js for server-side rendering and static generation.</i>
-      </p>
+      <h4><a href="https://github.com/swiftkimani/figma-canvas-mcp">figma-canvas-mcp</a></h4>
+      <code>Rust</code> <code>MCP</code> <code>design-to-code</code>
+      <p>Reads a live Figma canvas over a local plugin bridge and reconstructs it as code. No API token, no rate limit.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/swiftkimani/goolang-backend">Golang Backend APIs</a></h3>
-      <p align="center">
-        <i>A robust backend architecture emphasizing clean architecture, high throughput, and memory efficiency.</i>
-      </p>
+      <h4><a href="https://github.com/swiftkimani/hyper-voice">hyper-voice</a></h4>
+      <code>Lua</code> <code>Hammerspoon</code> <code>macOS</code>
+      <p>Push-to-talk voice control for the Hyper terminal. Offline whisper.cpp for dictation, any LLM for free-form commands.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/sauti-salama">sauti-salama</a></h4>
+      <code>TypeScript</code> <code>USSD</code> <code>offline-first</code>
+      <p>GBV reporting and referral line for Kenya over USSD, SMS and voice, with triage, referral pathways and encrypted case handling. <a href="https://sauti.benardkimani.co.ke">Live proof of concept</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/nova">nova</a></h4>
+      <code>TypeScript</code> <code>Next.js</code> <code>design tokens</code>
+      <p>Product boilerplate with a token-driven design system, light and dark modes, API routes and optional Docker.</p>
     </td>
   </tr>
 </table>
 
----
+<h3><img src="assets/header-shipped.svg" width="100%" alt="02 / Also shipped" /></h3>
 
-<div align="center">
-  <h2>✍️ Recent Blog Posts</h2>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/asset-nexus">asset-nexus</a></h4>
+      <code>TypeScript</code> <code>Next.js 15</code> <code>Turso</code>
+      <p>Asset lifecycle management: track, assign and report on hardware and software, with role-based access control and bulk import and export. <a href="https://asset.benardkimani.co.ke/">Live</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/social-scheduler">social-scheduler</a></h4>
+      <code>Go</code> <code>Next.js</code> <code>agent</code>
+      <p>Scheduling agent for X and LinkedIn posts that runs as an OpenCode subagent or a standalone CLI, on a Go backend.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/FabricSim">FabricSim</a></h4>
+      <code>C++</code> <code>networking</code> <code>simulation</code>
+      <p>Simulator for adaptive, congestion-aware routing across GPU interconnect topologies. Built module by module, from sockets up.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/goolang-backend">goolang-backend</a></h4>
+      <code>Go</code> <code>CQRS</code> <code>OpenTelemetry</code>
+      <p>My maintained fork of gemyago's Go backend boilerplate: OpenAPI-first handlers, tracing, SQLite and an MCP server. <a href="https://dev.benardkimani.co.ke/docs.html">Live docs</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/invoice-generator">invoice-generator</a></h4>
+      <code>TypeScript</code> <code>small business</code>
+      <p>Invoice generation for small businesses, built to take the busywork out of billing. <a href="https://invoice.benardkimani.co.ke/">Live</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/cipher-protocol">cipher-protocol</a></h4>
+      <code>HTML</code> <code>CSS</code> <code>vanilla JS</code>
+      <p>Landing page for a hacker game set in Nairobi, 2049. No framework, mobile-first, light and dark modes.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/marquee.svg" width="100%" alt="Rust, TypeScript, Go, MCP servers, voice, agents, offline-first, Nairobi" />
+
+<h3><img src="assets/header-writing.svg" width="100%" alt="03 / Writing" /></h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Social Scheduler: An AI-Powered Publishing Pipeline](https://medium.com/@Swiftkimani/social-scheduler-an-ai-powered-publishing-pipeline-f94df0e05a5d?source=rss-95c6ec5118f1------2)
@@ -83,53 +105,14 @@
 - [Build a Task Tracker App with Vite and React](https://medium.com/@Swiftkimani/build-a-task-tracker-app-with-vite-and-react-8176879aa42e?source=rss-95c6ec5118f1------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<div align="center">
-  <h2>📈 GitHub Activity & Stats</h2>
-  <br/>
-
-  <a href="https://github.com/swiftkimani">
-    <img src="https://img.shields.io/github/followers/swiftkimani?label=Followers&style=for-the-badge&color=6366f1&logo=github">
-  </a>
-  <a href="https://github.com/swiftkimani">
-    <img src="https://img.shields.io/github/stars/swiftkimani?label=Stars&style=for-the-badge&color=ec4899&logo=github">
-  </a>
-  <a href="https://github.com/swiftkimani?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswiftkimani&style=for-the-badge&color=a855f7&logo=github">
-  </a>
-  <a href="https://github.com/swiftkimani?tab=following">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswiftkimani&style=for-the-badge&color=22c55e&logo=github">
-  </a>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=swiftkimani&theme=radical" alt="GitHub Streak"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swiftkimani&theme=radical" alt="Contribution Graph" width="90%"/>
-</div>
-
----
-
-<div align="center">
-  <h2>😂 Dev Humor & Personality</h2>
-  <p><i>"I don't always test my code, but when I do, I do it in production."</i></p>
-  <br/>
-  <a href="https://readme-jokes.vercel.app">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-  </a>
-</div>
-
-<br/>
+<h3><img src="assets/header-signal.svg" width="100%" alt="04 / Signal" /></h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0CF709&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&descAlignY=90&descAlign=50" alt="Footer" />
+  <img src="https://streak-stats.demolab.com/?user=swiftkimani&background=07080C&border=1D2330&stroke=1D2330&ring=FFB35C&fire=FFB35C&currStreakNum=E9EEF7&sideNums=E9EEF7&currStreakLabel=FFB35C&sideLabels=8D97A8&dates=8D97A8" alt="GitHub contribution streak for swiftkimani" />
 </p>
 
-<div align="center">
-  <a href=#><img src="contributions.svg"></a>
-</div>
+<a href="https://benardkimani.co.ke/">
+  <img src="assets/footer.svg" width="100%" alt="Let's build something. benardkimani.co.ke" />
+</a>
 
-<hr style="border: 5px solid #000000; margin: 0;">
+<sub>The motion on this page is plain SVG and CSS, no scripts. The panels are generated by <a href="scripts/build_assets.py"><code>scripts/build_assets.py</code></a> and stay still if your system asks for reduced motion.</sub>
