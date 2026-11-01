@@ -34,7 +34,7 @@ RULE = f'stroke="{FG}" stroke-opacity=".12"'
 NAME_FIRST, NAME_LAST = "SWIFT", "KIMANI"
 TERMINAL_LINES = [
     ("whoami", "swift kimani · software engineer · nairobi, kenya"),
-    ("ls ~/shipping", "kaziscout/ voice-mcp/ figma-canvas-mcp/ hyper-voice/ sauti-salama/"),
+    ("ls ~/shipping", "kaziscout/ voice-mcp/ ivr-voice-gateway/ whatsapp-agent/ sauti-salama/"),
     ("cat stack.txt", "rust · typescript · go · python · next.js · react · tauri · postgres"),
     ("./status --now", "building voice and agent tooling that keeps working offline"),
 ]

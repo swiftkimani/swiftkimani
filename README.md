@@ -11,7 +11,7 @@
 
 I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfaces, agent tooling and software that keeps working when the network doesn't, mostly in Rust and TypeScript, with Go where throughput matters.
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal session. whoami: swift kimani, software engineer, Nairobi, Kenya. Shipping: kaziscout, voice-mcp, figma-canvas-mcp, hyper-voice, sauti-salama. Stack: Rust, TypeScript, Go, Python, Next.js, React, Tauri, Postgres." />
+<img src="assets/terminal.svg" width="100%" alt="Terminal session. whoami: swift kimani, software engineer, Nairobi, Kenya. Shipping: kaziscout, voice-mcp, ivr-voice-gateway, whatsapp-agent, sauti-salama. Stack: Rust, TypeScript, Go, Python, Next.js, React, Tauri, Postgres." />
 
 <h3><img src="assets/header-work.svg" width="100%" alt="01 / Selected work" /></h3>
 
@@ -50,6 +50,18 @@ I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfa
       <h4><a href="https://github.com/swiftkimani/nova">nova</a></h4>
       <code>TypeScript</code> <code>Next.js</code> <code>design tokens</code>
       <p>Product boilerplate with a token-driven design system, light and dark modes, API routes and optional Docker.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/ivr-voice-gateway">ivr-voice-gateway</a></h4>
+      <code>Go</code> <code>telephony</code> <code>evals</code>
+      <p>Hands a live call from any IVR to a voice AI, and takes it back. The AI can hear, speak, press digits, transfer and hang up; every call is written as a replayable event log, so a failed call becomes a regression test.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/swiftkimani/Whatsapp-Assistant-Agent">whatsapp-assistant-agent</a></h4>
+      <code>Python</code> <code>LangGraph</code> <code>self-hosted</code>
+      <p>Answers WhatsApp in your own voice across Kenyan English, Sheng and Kiswahili. Anything it cannot ground in your own notes is held for you to approve rather than guessed at. Runs on your server, holding your session.</p>
     </td>
   </tr>
 </table>
