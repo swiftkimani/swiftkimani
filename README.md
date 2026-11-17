@@ -44,7 +44,7 @@ I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfa
     <td width="50%" valign="top">
       <h4><a href="https://github.com/swiftkimani/sauti-salama">sauti-salama</a></h4>
       <code>TypeScript</code> <code>USSD</code> <code>offline-first</code>
-      <p>GBV reporting and referral line for Kenya over USSD, SMS and voice, with triage, referral pathways and encrypted case handling. <a href="https://sauti.benardkimani.co.ke">Live proof of concept</a>.</p>
+      <p>GBV reporting and referral line for Kenya over USSD, SMS and voice, with triage, referral pathways and encrypted case handling.</p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/swiftkimani/nova">nova</a></h4>
@@ -66,7 +66,38 @@ I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfa
   </tr>
 </table>
 
-<h3><img src="assets/header-shipped.svg" width="100%" alt="02 / Also shipped" /></h3>
+<h3><img src="assets/header-production.svg" width="100%" alt="02 / In production" /></h3>
+
+Built for <a href="https://nairobitstrust.org/">NairoBits Trust</a>, where I mentor and train developers. These are organisation repositories, so the links go to the products.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://board.nairobitstrust.org/">BitsBaraza</a></h4>
+      <code>Rust</code> <code>Next.js</code> <code>multi-tenant</code>
+      <p>Board governance platform. A governance kernel counts every vote against the organisation's constitution, with a dedicated test database and clippy at <code>-D warnings</code>. <a href="https://board.nairobitstrust.org/">Live</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://nairobitstrust.org/">nairobitstrust.org</a></h4>
+      <code>Next.js 16</code> <code>headless WordPress</code> <code>GraphQL</code>
+      <p>The organisation's public site: WordPress as a headless CMS over GraphQL, tested with Vitest, React Testing Library, MSW and Playwright journeys. <a href="https://nairobitstrust.org/">Live</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>NairoBits ERP</h4>
+      <code>Rust</code> <code>Postgres</code> <code>301 tests</code>
+      <p>ERP framework where the data models are runtime data rather than code: 49 modules and 143 models, covered by 146 unit and 155 end-to-end tests against Postgres in CI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Bits E-Learning</h4>
+      <code>Desktop</code> <code>offline-first</code> <code>on-device AI</code>
+      <p>Learning platform for Windows and macOS with an on-device AI tutor, syncing to head office through a local hub over Starlink.</p>
+    </td>
+  </tr>
+</table>
+
+<h3><img src="assets/header-shipped.svg" width="100%" alt="03 / Also shipped" /></h3>
 
 <table>
   <tr>
@@ -109,7 +140,7 @@ I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfa
 
 <img src="assets/marquee.svg" width="100%" alt="Rust, TypeScript, Go, MCP servers, voice, agents, offline-first, Nairobi" />
 
-<h3><img src="assets/header-writing.svg" width="100%" alt="03 / Writing" /></h3>
+<h3><img src="assets/header-writing.svg" width="100%" alt="04 / Writing" /></h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Social Scheduler: An AI-Powered Publishing Pipeline](https://medium.com/@Swiftkimani/social-scheduler-an-ai-powered-publishing-pipeline-f94df0e05a5d?source=rss-95c6ec5118f1------2)
@@ -117,7 +148,7 @@ I'm Benard "Swift" Kimani, a software engineer in Nairobi. I build voice interfa
 - [Build a Task Tracker App with Vite and React](https://medium.com/@Swiftkimani/build-a-task-tracker-app-with-vite-and-react-8176879aa42e?source=rss-95c6ec5118f1------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3><img src="assets/header-signal.svg" width="100%" alt="04 / Signal" /></h3>
+<h3><img src="assets/header-signal.svg" width="100%" alt="05 / Signal" /></h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=swiftkimani&background=07080C&border=1D2330&stroke=1D2330&ring=FFB35C&fire=FFB35C&currStreakNum=E9EEF7&sideNums=E9EEF7&currStreakLabel=FFB35C&sideLabels=8D97A8&dates=8D97A8" alt="GitHub contribution streak for swiftkimani" />

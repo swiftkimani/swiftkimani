@@ -40,9 +40,10 @@ TERMINAL_LINES = [
 ]
 HEADERS = {
     "work": ("01", "SELECTED WORK", "github.com/swiftkimani"),
-    "shipped": ("02", "ALSO SHIPPED", "live demos linked"),
-    "writing": ("03", "WRITING", "medium.com/@swiftkimani"),
-    "signal": ("04", "SIGNAL", "commit telemetry"),
+    "production": ("02", "IN PRODUCTION", "built for nairobits trust"),
+    "shipped": ("03", "ALSO SHIPPED", "live demos linked"),
+    "writing": ("04", "WRITING", "medium.com/@swiftkimani"),
+    "signal": ("05", "SIGNAL", "commit telemetry"),
 }
 MARQUEE_ITEMS = ["RUST", "TYPESCRIPT", "GO", "MCP SERVERS", "VOICE", "AGENTS", "OFFLINE-FIRST", "NAIROBI"]
 RING_PHRASE = "SWIFT KIMANI · NAIROBI · RUST · TYPESCRIPT · GO · "
